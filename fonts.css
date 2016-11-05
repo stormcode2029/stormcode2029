@@ -1,6 +1,12 @@
 @font-face {
 
-	font-family: bebasNeue
+	font-family: bebasNeue;
 	src: url('BebasNeue.otf');
+
+}
+
+.bebasNeue {
+
+	font-family: 'bebasNeue';
 
 }
